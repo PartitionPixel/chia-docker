@@ -1,4 +1,4 @@
-# Official Chia Docker Container
+# Fork of the Official Chia Docker Container, adapted for Unraid
 
 ## Basic Startup
 ```
